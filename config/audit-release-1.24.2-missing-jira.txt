@@ -1,0 +1,152 @@
+# PRs Without Linked Jira Tickets
+
+This report lists all PRs that have no linked Jira ticket, grouped by author.
+
+## By Author
+
+### Ankur Sinha
+
+- [785](https://github.com/openshift-pipelines/tekton-caches/pull/785): chore: bump go version to 1.26.10 (`97441b69a96b`)
+
+### Anwesha Palit
+
+- [1412](https://github.com/openshift-pipelines/console-plugin/pull/1412): chore: update install script for MAG (`859a87377469`)
+- [1416](https://github.com/openshift-pipelines/console-plugin/pull/1416): fix: refactor applyParentUpgrade, correct applyResolutions orderfix and use exact-version resolution entries and discover historical descriptors Co-Authored-By: Claude Opus 4.6 (`bde2a7418b32`)
+- [1418](https://github.com/openshift-pipelines/console-plugin/pull/1418): fix: refactor applyParentUpgrade, correct applyResolutions orderfix and use exact-version resolution entries and discover historical descriptors Co-Authored-By: Claude Opus 4.6 (`fc12aebb80d0`)
+- [3369](https://github.com/tektoncd/cli/pull/3369): chore: updating go version from 1.26.6 to 1.26.10 (`073ad737bf18`)
+- [41](https://github.com/openshift-pipelines/multicluster-proxy-aae/pull/41): chore: CVE-2026-111943 updating go to 1.26.10 (`40f235ce329b`)
+
+### divyansh42
+
+- [1092](https://github.com/openshift-pipelines/manual-approval-gate/pull/1092): fix: bump go to 1.26.10 for CVE-2026-111943 (`6ba998527c3a`)
+- [1097](https://github.com/openshift-pipelines/manual-approval-gate/pull/1097): [release-v0.9.x] bump the go-k8s-dependencies group across 1 directory with 4 updates (`2fab6f4964a3`)
+- [3322](https://github.com/tektoncd/cli/pull/3322): fix: use latest Tekton releases and fix ConfigMap timing (`765bd6c9b922`)
+- [651](https://github.com/openshift-pipelines/tekton-caches/pull/651): Fix golint (`89a68802f97b`)
+- [687](https://github.com/openshift-pipelines/tekton-caches/pull/687): Fix go lint errors (`e0713bd2033a`)
+- [967](https://github.com/openshift-pipelines/manual-approval-gate/pull/967): Update go version in workflows and remove konflux related files (`edb306fe69dc`)
+
+### Divyanshu Agrawal
+
+- [4187](https://github.com/tektoncd/operator/pull/4187): chore: update third-party image digests (`1c085a78be40`)
+- [4271](https://github.com/tektoncd/operator/pull/4271): chore: update third-party image digests (`7f865db42acd`)
+- [4293](https://github.com/tektoncd/operator/pull/4293): chore: update third-party image digests (`0d03f35bb52d`)
+
+### Emil Natan
+
+- [1513](https://github.com/tektoncd/results/pull/1513): chore: bump go to 1.26.10 (`2491534f6777`)
+
+### Gal Levi
+
+- [563](https://github.com/tektoncd/tekton-kueue/pull/563): KFLUXINFRA-4254 Add agent files defense CI checks (`5a0637f520d6`)
+- [563](https://github.com/tektoncd/tekton-kueue/pull/563): Merge pull request #563 from glevi-rh/backport/agent-files-defense-release-v0.4.x (`674dd6371a3e`)
+
+### Jawed khelil
+
+- [4219](https://github.com/tektoncd/operator/pull/4219): fix(bundle): drop duplicate MulticlusterProxyAAE CRD from OpenShift bundle (`e037472d9adc`)
+- [4259](https://github.com/tektoncd/operator/pull/4259): fix(chains): allow slsa/v2alpha4 attestation format in validation (`bd476b3d1909`)
+- [4259](https://github.com/tektoncd/operator/pull/4259): test(chains): drive format validation from allowlist vars (`927ec44751f2`)
+- [4299](https://github.com/tektoncd/operator/pull/4299): fix(cve): update Go to 1.26.10 — CVE-2026-111943 (`a510c407bce7`)
+
+### khelil
+
+- [2070](https://github.com/tektoncd/chains/pull/2070): fix(cve): bump Go to 1.26.10 for CVE-2026-111943 (#2070) (`89219ea5443f`)
+
+### Khurram
+
+- [569](https://github.com/tektoncd/tekton-kueue/pull/569): Merge pull request #569 from tektoncd/backport/cve-2026-111943-go-1.26.10-release-v0.4.x (`991baeb2f542`)
+
+### Khurram Baig
+
+- [2185](https://github.com/tektoncd/triggers/pull/2185): fix: bump Go to 1.26.9, grpc, x/crypto and x/net (`124d9232a3f5`)
+- [766](https://github.com/openshift-pipelines/tekton-caches/pull/766): Add CodeCov for tekton-cache (`033b88bd87e0`)
+
+### openshift-merge-bot[bot]
+
+- [1385](https://github.com/openshift-pipelines/console-plugin/pull/1385): Merge pull request #1385 from openshift-cherrypick-robot/cherry-pick-1384-to-release-v1.24.x (`4e0a73222661`)
+- [1389](https://github.com/openshift-pipelines/console-plugin/pull/1389): Merge pull request #1389 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.24.x (`c8968e4569be`)
+- [1403](https://github.com/openshift-pipelines/console-plugin/pull/1403): Merge pull request #1403 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`2581fae8030b`)
+- [1405](https://github.com/openshift-pipelines/console-plugin/pull/1405): Merge pull request #1405 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.24.x (`532c343763b3`)
+- [1425](https://github.com/openshift-pipelines/console-plugin/pull/1425): Merge pull request #1425 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.24.x (`7d86e78d008b`)
+- [1429](https://github.com/openshift-pipelines/console-plugin/pull/1429): Merge pull request #1429 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`0c45d6dc5994`)
+- [1438](https://github.com/openshift-pipelines/console-plugin/pull/1438): Merge pull request #1438 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.24.x (`1837c380c775`)
+- [1441](https://github.com/openshift-pipelines/console-plugin/pull/1441): Merge pull request #1441 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`8095000a88f8`)
+
+### openshift-pipelines-bot
+
+- [1385](https://github.com/openshift-pipelines/console-plugin/pull/1385): chore(i18n): update Memsource translations (`2597bd1c708e`)
+- [1389](https://github.com/openshift-pipelines/console-plugin/pull/1389): chore: regenerate yarn.lock (`e190fffb83ab`)
+- [1403](https://github.com/openshift-pipelines/console-plugin/pull/1403): chore: regenerate yarn.lock (`d8bd688a7bee`)
+- [1405](https://github.com/openshift-pipelines/console-plugin/pull/1405): chore: regenerate yarn.lock (`4845c2b42e2b`)
+- [1425](https://github.com/openshift-pipelines/console-plugin/pull/1425): chore: regenerate yarn.lock (`c81bc7feacb5`)
+- [1429](https://github.com/openshift-pipelines/console-plugin/pull/1429): chore: regenerate yarn.lock (`101c8a742d89`)
+- [1438](https://github.com/openshift-pipelines/console-plugin/pull/1438): chore: regenerate yarn.lock (`ab89206641a3`)
+- [1441](https://github.com/openshift-pipelines/console-plugin/pull/1441): chore: regenerate yarn.lock (`94a10da74304`)
+- [620](https://github.com/openshift-pipelines/tekton-caches/pull/620): [bot:main] update konflux configuration (`a3120a1a9d3f`)
+- [626](https://github.com/openshift-pipelines/tekton-caches/pull/626): [bot:main] update konflux configuration (`d374099aedd0`)
+
+### Pramod Bindal
+
+- [539](https://github.com/openshift-pipelines/tekton-caches/pull/539): Run workflow on main and release branches (`e7d42618e2ba`)
+- [552](https://github.com/openshift-pipelines/tekton-caches/pull/552): add custom renovate json (`5dba26e51626`)
+- [569](https://github.com/tektoncd/tekton-kueue/pull/569): CVE-2026-111943: bump Go to 1.26.10 (`62e9f9558859`)
+- [571](https://github.com/tektoncd/tekton-kueue/pull/571): build(deps): bump indirect dependencies for x/net and grpc advisories (`4deee7888e1c`)
+- [630](https://github.com/openshift-pipelines/tekton-caches/pull/630): Fix release (`83ce27c7149f`)
+- [686](https://github.com/openshift-pipelines/tekton-caches/pull/686): Bump go modules (`4b00efe69370`)
+- [686](https://github.com/openshift-pipelines/tekton-caches/pull/686): Bump go modules (`99cf4666e390`)
+- [686](https://github.com/openshift-pipelines/tekton-caches/pull/686): remove .tekton (`8d4aabc78b63`)
+- [711](https://github.com/openshift-pipelines/tekton-caches/pull/711): Bump pipelines to v1.11.0 (`cfba65898e40`)
+- [711](https://github.com/openshift-pipelines/tekton-caches/pull/711): Security Vulnerabilities Fixed: (`477648949928`)
+- [724](https://github.com/openshift-pipelines/tekton-caches/pull/724): Fix CVE: CVE-2026-33186 openshift-pipelines/pipelines-cache-rhel9: gRPC-Go: Authorization bypass due to improper HTTP/2 path validation (`f49abdfca705`)
+- [737](https://github.com/openshift-pipelines/tekton-caches/pull/737): bump otel and pipeline version for CVE fixes (`05acbc84d0c2`)
+- [738](https://github.com/openshift-pipelines/tekton-caches/pull/738): cve: Fix GHSA-xmrv-pmrh-hhx2 (`85c460e70dba`)
+- [759](https://github.com/openshift-pipelines/tekton-caches/pull/759): Sanitize BLOB_QUERY_PARAMS with allow policy before openBucket (`cd79db6f79c4`)
+- [790](https://github.com/openshift-pipelines/tekton-caches/pull/790): Make github-release idempotent (`0da905a5ec11`)
+
+### pratap0007
+
+- [3320](https://github.com/tektoncd/cli/pull/3320): fix(hub): restrict tkn hub install resources fetching (`9ec89e5b788a`)
+- [3373](https://github.com/tektoncd/cli/pull/3373): bump(VERSION):  bump version to latest patch version v0.46.2 (`5ca63e807e22`)
+- [4221](https://github.com/tektoncd/operator/pull/4221): fix(openshift): block SCC escalation via annotations (`7b37043c4515`)
+
+### red-hat-konflux-kflux-prd-rh02[bot]
+
+- [545](https://github.com/openshift-pipelines/tekton-caches/pull/545): chore(deps): update google.golang.org/genproto digest to 65f7160 (`ac53f3c67865`)
+- [547](https://github.com/openshift-pipelines/tekton-caches/pull/547): chore(deps): update module github.com/stoewer/go-strcase to v1.3.1 (`1b333a4d94a7`)
+- [642](https://github.com/openshift-pipelines/tekton-caches/pull/642): chore(deps): update registry.access.redhat.com/ubi9/ubi-minimal docker digest to 2ddd6e1 (`a213c4a2aeb6`)
+
+### sashture
+
+- [39](https://github.com/openshift-pipelines/multicluster-proxy-aae/pull/39): fix import issue (`3b3f3e39f69d`)
+
+### savitaashture
+
+- [164](https://github.com/tektoncd-catalog/git-clone/pull/164): Bump go version to 1.26.10 to fix CVE issue (`e1b1fafc3a0c`)
+- [2193](https://github.com/tektoncd/triggers/pull/2193): Bump go version to 1.26.10 to fix CVE issue (`799a5fbb9c58`)
+- [38](https://github.com/openshift-pipelines/multicluster-proxy-aae/pull/38): Fix per request Kubernetes client construction (`ed397a36c6e7`)
+- [38](https://github.com/openshift-pipelines/multicluster-proxy-aae/pull/38): Update permissions for secret (`60279bf58d13`)
+- [71](https://github.com/openshift-pipelines/syncer-service/pull/71): Bump go version to 1.26.10 to fix CVE issue (`de7997d30c54`)
+
+### Shubham Bhardwaj
+
+- [4256](https://github.com/tektoncd/operator/pull/4256): feat(pruner): add default resource limits to controller and webhook (`1eb452c99309`)
+- [461](https://github.com/tektoncd/pruner/pull/461): fix: pin builder image (`483fd0ba021e`)
+
+### tekton-robot
+
+- [2002](https://github.com/tektoncd/chains/pull/2002): bumping go to 1.26.6 to fix govcloud cves (#2002) (`393a60232f53`)
+
+### Vibhav Bobade
+
+- [567](https://github.com/tektoncd/tekton-kueue/pull/567): fix: repair patch release publishing image (`b20c451547d8`)
+- [781](https://github.com/openshift-pipelines/tekton-caches/pull/781): Fix blob query parameter compatibility (`f406b53084c7`)
+
+### Vincent Demeester
+
+- [158](https://github.com/tektoncd-catalog/git-clone/pull/158): chore: bump version to v1.7.1 (`a3772f4338bc`)
+- [158](https://github.com/tektoncd-catalog/git-clone/pull/158): ci: add Artifact Hub lint checks (`22c16b5394da`)
+- [2173](https://github.com/tektoncd/triggers/pull/2173): cherry-pick add automatic GitHub draft release creation from main (`9f74bff94034`)
+- [4160](https://github.com/tektoncd/operator/pull/4160): chore: bump chains from v0.29.5 to v0.29.6 (`f33318e635bc`)
+- [4193](https://github.com/tektoncd/operator/pull/4193): chore: bump chains from v0.29.6 to v0.29.7 (`98df9d34174b`)
+- [4307](https://github.com/tektoncd/operator/pull/4307): chore: bump component versions (`46c45b1a3438`)
+- [4315](https://github.com/tektoncd/operator/pull/4315): chore: bump component versions (`96e3576296ed`)
+- [4320](https://github.com/tektoncd/operator/pull/4320): chore: bump pruner from v0.4.3 to v0.4.4 (`af46ecd2fe0a`)
