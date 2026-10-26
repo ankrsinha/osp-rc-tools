@@ -1,0 +1,197 @@
+# PRs Without Linked Jira Tickets
+
+This report lists all PRs that have no linked Jira ticket, grouped by author.
+
+## By Author
+
+### Akshay Pant
+
+- [1297](https://github.com/openshift-pipelines/console-plugin/pull/1297): Merge pull request #1297 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.23.x (`0a3a508887be`)
+- [2944](https://github.com/tektoncd/pipelines-as-code/pull/2944): fix(cve): bump Go to 1.26.6 and otel to 1.44.0 to fix CVEs (`29373a12355a`)
+
+### Andrew Thorp
+
+- [2126](https://github.com/tektoncd/triggers/pull/2126): chore(codegen): update codegen for new Core Interceptors Config (`7fd3dcab2ea0`)
+- [2126](https://github.com/tektoncd/triggers/pull/2126): chore: update examples (`c03f5fb74ddc`)
+- [2126](https://github.com/tektoncd/triggers/pull/2126): feat: add enterprise host allowlist for GitHub interceptor (`3b11ccfece6c`)
+
+### Ankur Sinha
+
+- [786](https://github.com/openshift-pipelines/tekton-caches/pull/786): chore: bump go version to 1.26.10 (`481a59a0227e`)
+
+### Anwesha Palit
+
+- [1417](https://github.com/openshift-pipelines/console-plugin/pull/1417): fix: refactor applyParentUpgrade, correct applyResolutions orderfix and use exact-version resolution entries and discover historical descriptors Co-Authored-By: Claude Opus 4.6 (`48cb46ac176d`)
+- [1418](https://github.com/openshift-pipelines/console-plugin/pull/1418): fix: refactor applyParentUpgrade, correct applyResolutions orderfix and use exact-version resolution entries and discover historical descriptors Co-Authored-By: Claude Opus 4.6 (`fc12aebb80d0`)
+- [3370](https://github.com/tektoncd/cli/pull/3370): chore: updating go version from 1.26.6 to 1.26.10 (`fc4a0b1db65d`)
+
+### anwesha-palit-redhat
+
+- [554](https://github.com/openshift-pipelines/opc/pull/554): [bot:1.23] Update OPC version to 1.23.3 (`29d4f8f7b5bb`)
+- [560](https://github.com/openshift-pipelines/opc/pull/560): [bot:1.23] Update non-OPC component versions to latest (`f8884d22824e`)
+- [570](https://github.com/openshift-pipelines/opc/pull/570): [bot:1.23] Update non-OPC component versions to latest (`94a67ac878dc`)
+- [574](https://github.com/openshift-pipelines/opc/pull/574): [bot:1.23] Update non-OPC component versions to latest (`91615d24887e`)
+
+### Arvind
+
+- [3237](https://github.com/tektoncd/cli/pull/3237): fix: add execute-bit check in FindPlugin (`0bd69f98f638`)
+
+### Arvind Krishnamurthy
+
+- [1358](https://github.com/openshift-pipelines/console-plugin/pull/1358): Merge pull request #1358 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.23.x (`ae56a34149e9`)
+
+### divyansh42
+
+- [1092](https://github.com/openshift-pipelines/manual-approval-gate/pull/1092): fix: bump go to 1.26.10 for CVE-2026-111943 (`6ba998527c3a`)
+- [1097](https://github.com/openshift-pipelines/manual-approval-gate/pull/1097): [release-v0.9.x] bump the go-k8s-dependencies group across 1 directory with 4 updates (`2fab6f4964a3`)
+- [3219](https://github.com/tektoncd/cli/pull/3219): fix(plugins): reject relative plugin dirs to prevent cwd fallback (CWE-426) (`9d4b595745eb`)
+- [3231](https://github.com/tektoncd/cli/pull/3231): fix(bundle): gate name.Insecure behind --remote-skip-tls (CWE-319) (`af4511c608c4`)
+- [3323](https://github.com/tektoncd/cli/pull/3323): fix: use latest Tekton releases and fix ConfigMap timing (`1568d9e291d0`)
+
+### Divyanshu Agrawal
+
+- [3990](https://github.com/tektoncd/operator/pull/3990): chore: update third-party image digests (`319f6d59ea99`)
+- [4026](https://github.com/tektoncd/operator/pull/4026): chore: update third-party image digests (`29957c5aeb58`)
+- [4059](https://github.com/tektoncd/operator/pull/4059): chore: update third-party image digests (`4598668e6e88`)
+- [4105](https://github.com/tektoncd/operator/pull/4105): chore: update third-party image digests (`6b5fb64e168f`)
+- [4149](https://github.com/tektoncd/operator/pull/4149): chore: update third-party image digests (`58f1679d80ac`)
+- [4190](https://github.com/tektoncd/operator/pull/4190): chore: update third-party image digests (`861d7b2ebaad`)
+- [4208](https://github.com/tektoncd/operator/pull/4208): chore: update third-party image digests (`debb2ce1714f`)
+- [4268](https://github.com/tektoncd/operator/pull/4268): chore: update third-party image digests (`d795daf19422`)
+- [4290](https://github.com/tektoncd/operator/pull/4290): chore: update third-party image digests (`cc6501acd065`)
+
+### Emil Natan
+
+- [1514](https://github.com/tektoncd/results/pull/1514): chore: bump go to 1.26.10- #1511 (`c0031e2ba813`)
+- [4113](https://github.com/tektoncd/operator/pull/4113): fix(common): propagate config to StatefulSets too (`67ed69a161dc`)
+
+### Gal Ben Haim
+
+- [541](https://github.com/tektoncd/tekton-kueue/pull/541): Merge commit from fork (`191234130da4`)
+- [541](https://github.com/tektoncd/tekton-kueue/pull/541): Reject invalid resource annotation values instead of panicking (`acb8f0974505`)
+- [543](https://github.com/tektoncd/tekton-kueue/pull/543): ci: align checkout pin and drop e2e runner cleanup (`d3609669a9ef`)
+- [543](https://github.com/tektoncd/tekton-kueue/pull/543): ci: backport GitHub Actions workflows from main (`2a57279f5f2e`)
+
+### Gal Levi
+
+- [562](https://github.com/tektoncd/tekton-kueue/pull/562): KFLUXINFRA-4254 Add agent files defense CI checks (`65928f3adbdf`)
+- [562](https://github.com/tektoncd/tekton-kueue/pull/562): Merge pull request #562 from glevi-rh/backport/agent-files-defense-release-v0.3.x (`dcefeed01dfd`)
+
+### github-actions[bot]
+
+- [553](https://github.com/openshift-pipelines/opc/pull/553): Update component versions for release-v1.23.x (`de2c1e9dacc7`)
+
+### Jawed khelil
+
+- [10775](https://github.com/tektoncd/pipeline/pull/10775): [release-v1.12.x] fix(release): copy vendor tarball into kodata instead of symlink (`a9ec74c22dd6`)
+- [4218](https://github.com/tektoncd/operator/pull/4218): fix(bundle): drop duplicate MulticlusterProxyAAE CRD from OpenShift bundle (`2d13a6fa3d00`)
+- [4260](https://github.com/tektoncd/operator/pull/4260): fix(chains): allow slsa/v2alpha4 attestation format in validation (`376fa7532c63`)
+- [4260](https://github.com/tektoncd/operator/pull/4260): test(chains): drive format validation from allowlist vars (`d4c904461566`)
+- [4298](https://github.com/tektoncd/operator/pull/4298): fix(cve): update Go to 1.26.10 — CVE-2026-111943 (`a002e9e9f6cf`)
+
+### Khurram Baig
+
+- [534](https://github.com/tektoncd/tekton-kueue/pull/534): Bump go to fix CVE-2026-42504, CVE-2026-27145 (`f2d90be14bff`)
+
+### openshift-ci[bot]
+
+- [1355](https://github.com/openshift-pipelines/console-plugin/pull/1355): Merge pull request #1355 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`8db7663df3b1`)
+
+### openshift-merge-bot[bot]
+
+- [1304](https://github.com/openshift-pipelines/console-plugin/pull/1304): Merge pull request #1304 from anwesha-palit-redhat/release-v1.22.x (`bc016fe388d3`)
+- [1308](https://github.com/openshift-pipelines/console-plugin/pull/1308): Merge pull request #1308 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.23.x (`f50fa0fd9a3e`)
+- [1313](https://github.com/openshift-pipelines/console-plugin/pull/1313): Merge pull request #1313 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`874eb8293130`)
+- [1339](https://github.com/openshift-pipelines/console-plugin/pull/1339): Merge pull request #1339 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.23.x (`cdca173cf762`)
+- [1343](https://github.com/openshift-pipelines/console-plugin/pull/1343): Merge pull request #1343 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`938175f5d1a2`)
+- [1370](https://github.com/openshift-pipelines/console-plugin/pull/1370): Merge pull request #1370 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.23.x (`1fa3743f6583`)
+- [1372](https://github.com/openshift-pipelines/console-plugin/pull/1372): Merge pull request #1372 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`87072cc1800b`)
+- [1401](https://github.com/openshift-pipelines/console-plugin/pull/1401): Merge pull request #1401 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.23.x (`6623f383f934`)
+- [1403](https://github.com/openshift-pipelines/console-plugin/pull/1403): Merge pull request #1403 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`2581fae8030b`)
+- [1427](https://github.com/openshift-pipelines/console-plugin/pull/1427): Merge pull request #1427 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.23.x (`45153a705865`)
+- [1429](https://github.com/openshift-pipelines/console-plugin/pull/1429): Merge pull request #1429 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`0c45d6dc5994`)
+- [1439](https://github.com/openshift-pipelines/console-plugin/pull/1439): Merge pull request #1439 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.23.x (`db766b18afe2`)
+- [1441](https://github.com/openshift-pipelines/console-plugin/pull/1441): Merge pull request #1441 from openshift-pipelines/automation/refresh-yarn-lockfile-release-v1.22.x (`8095000a88f8`)
+
+### openshift-pipelines-bot
+
+- [1297](https://github.com/openshift-pipelines/console-plugin/pull/1297): chore: regenerate yarn.lock (`49424d67b4a9`)
+- [1308](https://github.com/openshift-pipelines/console-plugin/pull/1308): chore: regenerate yarn.lock (`c71c3624de28`)
+- [1313](https://github.com/openshift-pipelines/console-plugin/pull/1313): chore: regenerate yarn.lock (`3ab40e2a0b46`)
+- [1339](https://github.com/openshift-pipelines/console-plugin/pull/1339): chore: regenerate yarn.lock (`7dec92eab1c3`)
+- [1343](https://github.com/openshift-pipelines/console-plugin/pull/1343): chore: regenerate yarn.lock (`015efffe9f9f`)
+- [1355](https://github.com/openshift-pipelines/console-plugin/pull/1355): chore: regenerate yarn.lock (`40bc5f3999ad`)
+- [1358](https://github.com/openshift-pipelines/console-plugin/pull/1358): chore: regenerate yarn.lock (`125de35a3ae8`)
+- [1370](https://github.com/openshift-pipelines/console-plugin/pull/1370): chore: regenerate yarn.lock (`952701fe7bf0`)
+- [1372](https://github.com/openshift-pipelines/console-plugin/pull/1372): chore: regenerate yarn.lock (`ae70aea7c6c3`)
+- [1401](https://github.com/openshift-pipelines/console-plugin/pull/1401): chore: regenerate yarn.lock (`e693af5d6f17`)
+- [1403](https://github.com/openshift-pipelines/console-plugin/pull/1403): chore: regenerate yarn.lock (`d8bd688a7bee`)
+- [1427](https://github.com/openshift-pipelines/console-plugin/pull/1427): chore: regenerate yarn.lock (`e4a5dd9406e4`)
+- [1429](https://github.com/openshift-pipelines/console-plugin/pull/1429): chore: regenerate yarn.lock (`101c8a742d89`)
+- [1439](https://github.com/openshift-pipelines/console-plugin/pull/1439): chore: regenerate yarn.lock (`5a2301d1215b`)
+- [1441](https://github.com/openshift-pipelines/console-plugin/pull/1441): chore: regenerate yarn.lock (`94a10da74304`)
+
+### Pramod Bindal
+
+- [570](https://github.com/tektoncd/tekton-kueue/pull/570): CVE-2026-111943: build the linter with the project Go (`4e3306fd4875`)
+- [570](https://github.com/tektoncd/tekton-kueue/pull/570): CVE-2026-111943: move to Go 1.26.10 (`c9b7b45f4352`)
+- [576](https://github.com/tektoncd/tekton-kueue/pull/576): build(deps): bump indirect dependencies for x/net and grpc advisories (`ec3472f71d77`)
+- [791](https://github.com/openshift-pipelines/tekton-caches/pull/791): Make github-release idempotent (`7b32f2cda316`)
+- [792](https://github.com/openshift-pipelines/tekton-caches/pull/792): Sync release.sh with main branch (`2d99af498bc2`)
+
+### pratap0007
+
+- [3202](https://github.com/tektoncd/cli/pull/3202): fix(VERSION): update the version to latest patch version (`83871a94ff9c`)
+- [3375](https://github.com/tektoncd/cli/pull/3375): bump(VERSION):  bump version to latest patch version v0.45.3 (`ad6d4e29c5b5`)
+- [4071](https://github.com/tektoncd/operator/pull/4071): fix(tektonaddon): use zip format for Windows CLI downloads (`87d39a606e2b`)
+- [4155](https://github.com/tektoncd/operator/pull/4155): fix(hub): set Hub REDIRECT_URI with UI route URL (`ad3566a7d8a7`)
+- [4220](https://github.com/tektoncd/operator/pull/4220): fix(openshift): block SCC escalation via annotations (`461b0db43bab`)
+
+### sashture
+
+- [2192](https://github.com/tektoncd/triggers/pull/2192): Bump go version to 1.26.10 to fix CVE issue (`489a22bd2d4f`)
+
+### savitaashture
+
+- [164](https://github.com/tektoncd-catalog/git-clone/pull/164): Bump go version to 1.26.10 to fix CVE issue (`e1b1fafc3a0c`)
+- [2175](https://github.com/tektoncd/triggers/pull/2175): Remove koExtraArgs value from release.yaml (`aa618b8cfb93`)
+- [2179](https://github.com/tektoncd/triggers/pull/2179): Modify koExtraArgs in release-patch.yaml (`6b067007b62a`)
+- [2181](https://github.com/tektoncd/triggers/pull/2181): remove preserve-import-paths from the publish and release pipeline files (`6ed84485ae15`)
+
+### Shubham Bhardwaj
+
+- [1095](https://github.com/openshift-pipelines/manual-approval-gate/pull/1095): ci: run latest workflow on release branch PRs (`a897d7560aef`)
+- [401](https://github.com/tektoncd/pruner/pull/401):   fix(release): resolve in-toto attestation UUID in wait-for-chains (`21fedf3d6402`)
+- [402](https://github.com/tektoncd/pruner/pull/402): fix(rbac): harden ClusterRole to least-privilege (`f8cdf0b9ad49`)
+- [4257](https://github.com/tektoncd/operator/pull/4257): feat(pruner): add default resource limits to controller and webhook (`7a98c5841d4c`)
+- [461](https://github.com/tektoncd/pruner/pull/461): fix: pin builder image (`483fd0ba021e`)
+
+### Vibhav Bobade
+
+- [557](https://github.com/tektoncd/tekton-kueue/pull/557): fix: backport release tooling to v0.3 (`06b909768ae8`)
+- [566](https://github.com/tektoncd/tekton-kueue/pull/566): fix: repair patch release publishing image (`e84c70ca96df`)
+
+### Vincent Demeester
+
+- [10775](https://github.com/tektoncd/pipeline/pull/10775): fix: bump Go to 1.27.3 to fix CVE-2026-111943 (`c807b088a9f2`)
+- [10775](https://github.com/tektoncd/pipeline/pull/10775): [release-v1.12.x] fix: bump plumbing ko image to Go 1.27.3 (`05fe43086598`)
+- [10775](https://github.com/tektoncd/pipeline/pull/10775): style: gofmt files flagged by Go 1.27 gofmt (`82266c0b369e`)
+- [158](https://github.com/tektoncd-catalog/git-clone/pull/158): chore: bump version to v1.7.1 (`a3772f4338bc`)
+- [158](https://github.com/tektoncd-catalog/git-clone/pull/158): ci: add Artifact Hub lint checks (`22c16b5394da`)
+- [2162](https://github.com/tektoncd/triggers/pull/2162): fix: bump pinned ko image to fix go toolchain mismatch (`96a45310de99`)
+- [2164](https://github.com/tektoncd/triggers/pull/2164): fix: cp instead of symlink source tarball into kodata (`3d6638115a6b`)
+- [2172](https://github.com/tektoncd/triggers/pull/2172): cherry-pick add automatic GitHub draft release creation from main (`29244fb5fd28`)
+- [3984](https://github.com/tektoncd/operator/pull/3984): chore: bump syncer-service from v0.1.0 to v0.1.1 (`bad9cc49951a`)
+- [4019](https://github.com/tektoncd/operator/pull/4019): chore: bump pruner from v0.4.1 to v0.4.3 (`c9591e554715`)
+- [4081](https://github.com/tektoncd/operator/pull/4081): chore: bump manual-approval-gate from v0.9.0 to v0.9.1 (`67e4c2dcad93`)
+- [4156](https://github.com/tektoncd/operator/pull/4156): chore: bump hub from v1.24.2 to v1.24.4 (`c31af9628798`)
+- [4194](https://github.com/tektoncd/operator/pull/4194): chore: bump hub from v1.24.4 to v1.24.5 (`4ebb8ed7662d`)
+- [4223](https://github.com/tektoncd/operator/pull/4223): chore: bump triggers from v0.36.0 to v0.36.4 (`962ec8d2fc6b`)
+- [4234](https://github.com/tektoncd/operator/pull/4234): chore: bump component versions (`293991dddf42`)
+- [4306](https://github.com/tektoncd/operator/pull/4306): chore: bump component versions (`46f99242bf77`)
+- [4313](https://github.com/tektoncd/operator/pull/4313): chore: bump component versions (`dbc173a586a3`)
+- [4319](https://github.com/tektoncd/operator/pull/4319): chore: bump pruner from v0.4.3 to v0.4.4 (`0fe845c16aec`)
+
+### waveywaves
+
+- [10775](https://github.com/tektoncd/pipeline/pull/10775): build(deps): update Go security dependencies (`37ce82bceca8`)

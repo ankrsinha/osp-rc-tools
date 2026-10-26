@@ -58,7 +58,9 @@ log() {
     shift
     case "$level" in
         debug)
-            [[ "${DEBUG:-}" == "true" ]] && echo "DEBUG: $*" >&2
+            if [[ "${DEBUG:-}" == "true" ]]; then
+                echo "DEBUG: $*" >&2
+            fi
             ;;
         progress)
             echo "$*" >&2

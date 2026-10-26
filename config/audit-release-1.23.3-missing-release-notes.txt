@@ -1,0 +1,56 @@
+# Jira Tickets With Incomplete Release Notes
+
+This report lists all Jira tickets that are missing release note fields (type, status, or text), grouped by author.
+
+Note: Tickets marked as "Release Note Not Required" are excluded from this report.
+
+## By Author
+
+### akpant
+
+- [SRVKP-14901](https://redhat.atlassian.net/browse/SRVKP-14901): Missing 
+
+### Akshay Pant
+
+- [SRVKP-14599](https://redhat.atlassian.net/browse/SRVKP-14599): Missing 
+
+### diagrawa
+
+- [SRVKP-14493](https://redhat.atlassian.net/browse/SRVKP-14493): Missing 
+- [SRVKP-14895](https://redhat.atlassian.net/browse/SRVKP-14895): Missing 
+
+### pratap0007
+
+- [SRVKP-15057](https://redhat.atlassian.net/browse/SRVKP-15057): Missing 
+
+### Shubham Bhardwaj
+
+- [SRVKP-15163](https://redhat.atlassian.net/browse/SRVKP-15163): Missing 
+
+### SRVKP-14493
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14599
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14895
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14901
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-15057
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-15163
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### Zaki Shaikh
+
+- [SRVKP-14599](https://redhat.atlassian.net/browse/SRVKP-14599): Missing 
