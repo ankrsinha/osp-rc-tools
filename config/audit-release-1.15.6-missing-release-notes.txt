@@ -1,0 +1,41 @@
+# Jira Tickets With Incomplete Release Notes
+
+This report lists all Jira tickets that are missing release note fields (type, status, or text), grouped by author.
+
+Note: Tickets marked as "Release Note Not Required" are excluded from this report.
+
+## By Author
+
+### diagrawa
+
+- [SRVKP-14426](https://redhat.atlassian.net/browse/SRVKP-14426): Missing 
+
+### jkhelil
+
+- [SRVKP-14442](https://redhat.atlassian.net/browse/SRVKP-14442): Missing 
+- [SRVKP-14485](https://redhat.atlassian.net/browse/SRVKP-14485): Missing 
+- [SRVKP-14486](https://redhat.atlassian.net/browse/SRVKP-14486): Missing 
+
+### pratap0007
+
+- [SRVKP-15161](https://redhat.atlassian.net/browse/SRVKP-15161): Missing 
+
+### SRVKP-14426
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14442
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14485
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14486
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-15161
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 

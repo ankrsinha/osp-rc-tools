@@ -1,4 +1,50 @@
 {
+  "1.15": {
+    "operator": {
+      "upstream": "tektoncd/operator",
+      "branch": "release-v0.71.x"
+    },
+    "p12n-console-plugin": {
+      "upstream": "tektoncd/dashboard",
+      "branch": "release-v0.46.x-lts"
+    },
+    "p12n-manual-approval-gate": {
+      "upstream": "openshift-pipelines/manual-approval-gate",
+      "branch": "release-v0.2.3"
+    },
+    "pac-downstream": {
+      "upstream": "openshift-pipelines/pipelines-as-code",
+      "branch": "release-v0.27.5"
+    },
+    "tektoncd-chains": {
+      "upstream": "tektoncd/chains",
+      "branch": "release-v0.20.x"
+    },
+    "tektoncd-cli": {
+      "upstream": "tektoncd/cli",
+      "branch": "release-v0.37.x"
+    },
+    "tektoncd-git-clone": {
+      "upstream": "tektoncd-catalog/git-clone",
+      "branch": "main"
+    },
+    "tektoncd-hub": {
+      "upstream": "openshift-pipelines/hub",
+      "branch": "release-v1.17.11"
+    },
+    "tektoncd-pipeline": {
+      "upstream": "tektoncd/pipeline",
+      "branch": "release-v0.59.x"
+    },
+    "tektoncd-results": {
+      "upstream": "tektoncd/results",
+      "branch": "release-v0.10.x"
+    },
+    "tektoncd-triggers": {
+      "upstream": "tektoncd/triggers",
+      "branch": "release-v0.27.x"
+    }
+  },
   "1.23": {
     "p12n-console-plugin-pf5": {
       "upstream": "openshift-pipelines/console-plugin",

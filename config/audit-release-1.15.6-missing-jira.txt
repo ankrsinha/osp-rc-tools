@@ -1,0 +1,86 @@
+# PRs Without Linked Jira Tickets
+
+This report lists all PRs that have no linked Jira ticket, grouped by author.
+
+## By Author
+
+### Anwesha Palit
+
+- [3371](https://github.com/tektoncd/cli/pull/3371): chore:CVE-2026-111943 updating go version from 1.26.6 to 1.26.10 (`c17d67becbda`)
+
+### Arvind
+
+- [3239](https://github.com/tektoncd/cli/pull/3239): fix: add execute-bit check in FindPlugin (`35710a7fb45a`)
+
+### diagrawa
+
+- [1062](https://github.com/openshift-pipelines/manual-approval-gate/pull/1062): fix(cve): upgrade Go toolchain go1.25.12 → go1.25.13 (`7bc1cc0d1c14`)
+- [3133](https://github.com/tektoncd/cli/pull/3133): fix(cve): GHSA-hrxh-6v49-42gf - update google.golang.org/grpc to v1.82.1 (`53f599b3a28d`)
+
+### divyansh42
+
+- [1103](https://github.com/openshift-pipelines/manual-approval-gate/pull/1103): fix: bump go to 1.26.10 for CVE-2026-111943 (`87d85add7d90`)
+- [1104](https://github.com/openshift-pipelines/manual-approval-gate/pull/1104): ci: run latest workflow on release-v0.2.x PRs (`1f07ad5a9c32`)
+- [3225](https://github.com/tektoncd/cli/pull/3225): chore: add rebase and cherry-pick slash command workflows (`b3a543919ec4`)
+- [3226](https://github.com/tektoncd/cli/pull/3226): fix(plugins): reject relative plugin dirs to prevent cwd fallback (CWE-426) (`972e5ed3b7ce`)
+- [3234](https://github.com/tektoncd/cli/pull/3234): fix(bundle): gate name.Insecure behind --remote-skip-tls (CWE-319) (`e0bc86661887`)
+- [3335](https://github.com/tektoncd/cli/pull/3335): fix: use latest Tekton releases and fix ConfigMap timing (`ba161027da3c`)
+
+### Divyanshu Agrawal
+
+- [1413](https://github.com/tektoncd/results/pull/1413): fix(security): update Go to 1.25.12, grpc to v1.82.1, x/text to v0.39.0, x/net to v0.55.0 (#1413) (`86b2a9f4da81`)
+- [1423](https://github.com/tektoncd/results/pull/1423): fix(cve): update go 1.25.12, x/net v0.56.0, compress v1.18.7 (#1423) (`9780b1ec7364`)
+- [1424](https://github.com/tektoncd/results/pull/1424): fix(cve): update Go deps for CVE-2026-56852, CVE-2026-46600, GHSA-hrxh, GHSA-259r, GO-2025-3553 (#1424) (`43861263818e`)
+- [1449](https://github.com/tektoncd/results/pull/1449): fix(cve): update Go directive to 1.25.13 (stdlib CVE fix) (#1449) (`e57240f74133`)
+- [3137](https://github.com/tektoncd/cli/pull/3137): fix(security): bump Go stdlib go1.25.12 → go1.25.13 (`438f45dcb644`)
+
+### Emil Natan
+
+- [1515](https://github.com/tektoncd/results/pull/1515): chore: bump go to 1.26.10 (#1515) (`0783b1dccd17`)
+
+### Jawed khelil
+
+- [2068](https://github.com/tektoncd/chains/pull/2068): ci: bump golangci-lint to v2.11.4 (`7dbafe504ec9`)
+- [2068](https://github.com/tektoncd/chains/pull/2068): fix(cve): bump Go to 1.26.10 for CVE-2026-111943 (`ed55174435de`)
+- [2074](https://github.com/tektoncd/chains/pull/2074): fix: update kms and x509 unit tests (`1d0cf784d537`)
+
+### Jawed Khelil
+
+- [3927](https://github.com/tektoncd/operator/pull/3927): fix(cve): update Go stdlib to 1.25.13 on release-v0.71.x (`d29003fd0147`)
+
+### Jawed khelil
+
+- [4035](https://github.com/tektoncd/operator/pull/4035): ci: bump golangci-lint in standalone workflow for Go 1.26.6 (`2b3e5a32706f`)
+- [4035](https://github.com/tektoncd/operator/pull/4035): ci: bump golangci-lint to v2.12.2 for Go 1.26.6 compatibility (`846062b217bd`)
+- [4297](https://github.com/tektoncd/operator/pull/4297): fix(cve): update Go to 1.26.10 — CVE-2026-111943 (`b2709e212089`)
+- [4304](https://github.com/tektoncd/operator/pull/4304): fix(cve): bump google.golang.org/grpc to v1.83.2 (`66705481e0ff`)
+
+### jkhelil
+
+- [4035](https://github.com/tektoncd/operator/pull/4035): fix(cve): update Go stdlib, x/mod, x/crypto for GovCloud compliance (`884d772fa6b4`)
+
+### pratap0007
+
+- [3372](https://github.com/tektoncd/cli/pull/3372): fix(cve) bump google.golang.org/grpc to v1.83.2 to fix CVE-2026-84304 (`d6f336b5a73d`)
+- [3374](https://github.com/tektoncd/cli/pull/3374): bump(VERSION):  bump version to latest patch version v0.37.8 (`2e652e8808a2`)
+- [4216](https://github.com/tektoncd/operator/pull/4216): fix(hub): set Hub REDIRECT_URI with UI route URL (`7e65224594aa`)
+- [4225](https://github.com/tektoncd/operator/pull/4225): chore: bump hub from v1.17.9 to v1.17.10 (`074087b4972c`)
+- [4295](https://github.com/tektoncd/operator/pull/4295): chore: update third-party image digests (release-v0.71.x) (`271157b9fded`)
+- [4310](https://github.com/tektoncd/operator/pull/4310): chore: bump hub from v1.17.10 to v1.17.11 (`7c29559f945c`)
+
+### sashture
+
+- [163](https://github.com/tektoncd-catalog/git-clone/pull/163): Bump go version to 1.26.10 to fix CVE issue (`b77974a6ed03`)
+
+### savitaashture
+
+- [162](https://github.com/tektoncd-catalog/git-clone/pull/162): Fix CVE and GHSA issues (`2bc51a4eb0c0`)
+- [2191](https://github.com/tektoncd/triggers/pull/2191): Bump go version to 1.26.10 to fix CVE issue (`4aeba9fc05f5`)
+- [2195](https://github.com/tektoncd/triggers/pull/2195): Bump versions to fix CVE and GHSA (`b2d02955b6e9`)
+
+### Vincent Demeester
+
+- [4185](https://github.com/tektoncd/operator/pull/4185): chore: bump hub from v1.17.8 to v1.17.9 (`94ecca1d20d7`)
+- [4228](https://github.com/tektoncd/operator/pull/4228): chore: bump pipelines-as-code from v0.27.2 to v0.27.4 (`9648e68ae80d`)
+- [4308](https://github.com/tektoncd/operator/pull/4308): chore: bump pipelines-as-code from v0.27.4 to v0.27.5 (`ef315985fd90`)
+- [4311](https://github.com/tektoncd/operator/pull/4311): chore: bump component versions (`a7846fb73034`)
