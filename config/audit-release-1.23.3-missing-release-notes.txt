@@ -8,34 +8,78 @@ Note: Tickets marked as "Release Note Not Required" are excluded from this repor
 
 ### akpant
 
+- [SRVKP-14896](https://redhat.atlassian.net/browse/SRVKP-14896): Missing 
+- [SRVKP-14898](https://redhat.atlassian.net/browse/SRVKP-14898): Missing 
 - [SRVKP-14901](https://redhat.atlassian.net/browse/SRVKP-14901): Missing 
-
-### Akshay Pant
-
-- [SRVKP-14599](https://redhat.atlassian.net/browse/SRVKP-14599): Missing 
 
 ### diagrawa
 
+- [SRVKP-14492](https://redhat.atlassian.net/browse/SRVKP-14492): Missing 
 - [SRVKP-14493](https://redhat.atlassian.net/browse/SRVKP-14493): Missing 
 - [SRVKP-14895](https://redhat.atlassian.net/browse/SRVKP-14895): Missing 
+
+### Jawed Khelil
+
+- [SRVKP-14292](https://redhat.atlassian.net/browse/SRVKP-14292): Missing 
+- [SRVKP-14300](https://redhat.atlassian.net/browse/SRVKP-14300): Missing 
+- [SRVKP-14302](https://redhat.atlassian.net/browse/SRVKP-14302): Missing 
+- [SRVKP-14304](https://redhat.atlassian.net/browse/SRVKP-14304): Missing 
+- [SRVKP-14310](https://redhat.atlassian.net/browse/SRVKP-14310): Missing 
+- [SRVKP-14312](https://redhat.atlassian.net/browse/SRVKP-14312): Missing 
 
 ### pratap0007
 
 - [SRVKP-15057](https://redhat.atlassian.net/browse/SRVKP-15057): Missing 
 
+### sashture
+
+- [SRVKP-15198](https://redhat.atlassian.net/browse/SRVKP-15198): Missing 
+
 ### Shubham Bhardwaj
 
 - [SRVKP-15163](https://redhat.atlassian.net/browse/SRVKP-15163): Missing 
+
+### SRVKP-14292
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14300
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14302
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14304
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14310
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14312
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14492
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
 
 ### SRVKP-14493
 
 - [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
 
-### SRVKP-14599
+### SRVKP-14895
 
 - [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
 
-### SRVKP-14895
+### SRVKP-14896
+
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
+
+### SRVKP-14898
 
 - [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
 
@@ -51,6 +95,6 @@ Note: Tickets marked as "Release Note Not Required" are excluded from this repor
 
 - [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 
 
-### Zaki Shaikh
+### SRVKP-15198
 
-- [SRVKP-14599](https://redhat.atlassian.net/browse/SRVKP-14599): Missing 
+- [type,status,text](https://redhat.atlassian.net/browse/type,status,text): Missing 

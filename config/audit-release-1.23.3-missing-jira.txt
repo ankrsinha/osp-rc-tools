@@ -14,6 +14,7 @@ This report lists all PRs that have no linked Jira ticket, grouped by author.
 - [2126](https://github.com/tektoncd/triggers/pull/2126): chore(codegen): update codegen for new Core Interceptors Config (`7fd3dcab2ea0`)
 - [2126](https://github.com/tektoncd/triggers/pull/2126): chore: update examples (`c03f5fb74ddc`)
 - [2126](https://github.com/tektoncd/triggers/pull/2126): feat: add enterprise host allowlist for GitHub interceptor (`3b11ccfece6c`)
+- [2126](https://github.com/tektoncd/triggers/pull/2126): fix(github): require SecretRef for GitHub interceptor to process requests (`07cb4f5d9470`)
 
 ### Ankur Sinha
 
@@ -147,20 +148,14 @@ This report lists all PRs that have no linked Jira ticket, grouped by author.
 - [4155](https://github.com/tektoncd/operator/pull/4155): fix(hub): set Hub REDIRECT_URI with UI route URL (`ad3566a7d8a7`)
 - [4220](https://github.com/tektoncd/operator/pull/4220): fix(openshift): block SCC escalation via annotations (`461b0db43bab`)
 
-### sashture
-
-- [2192](https://github.com/tektoncd/triggers/pull/2192): Bump go version to 1.26.10 to fix CVE issue (`489a22bd2d4f`)
-
 ### savitaashture
 
-- [164](https://github.com/tektoncd-catalog/git-clone/pull/164): Bump go version to 1.26.10 to fix CVE issue (`e1b1fafc3a0c`)
 - [2175](https://github.com/tektoncd/triggers/pull/2175): Remove koExtraArgs value from release.yaml (`aa618b8cfb93`)
 - [2179](https://github.com/tektoncd/triggers/pull/2179): Modify koExtraArgs in release-patch.yaml (`6b067007b62a`)
 - [2181](https://github.com/tektoncd/triggers/pull/2181): remove preserve-import-paths from the publish and release pipeline files (`6ed84485ae15`)
 
 ### Shubham Bhardwaj
 
-- [1095](https://github.com/openshift-pipelines/manual-approval-gate/pull/1095): ci: run latest workflow on release branch PRs (`a897d7560aef`)
 - [401](https://github.com/tektoncd/pruner/pull/401):   fix(release): resolve in-toto attestation UUID in wait-for-chains (`21fedf3d6402`)
 - [402](https://github.com/tektoncd/pruner/pull/402): fix(rbac): harden ClusterRole to least-privilege (`f8cdf0b9ad49`)
 - [4257](https://github.com/tektoncd/operator/pull/4257): feat(pruner): add default resource limits to controller and webhook (`7a98c5841d4c`)
