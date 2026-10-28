@@ -120,8 +120,6 @@ This report lists all PRs that have no linked Jira ticket, grouped by author.
 
 ### savitaashture
 
-- [164](https://github.com/tektoncd-catalog/git-clone/pull/164): Bump go version to 1.26.10 to fix CVE issue (`e1b1fafc3a0c`)
-- [2193](https://github.com/tektoncd/triggers/pull/2193): Bump go version to 1.26.10 to fix CVE issue (`799a5fbb9c58`)
 - [38](https://github.com/openshift-pipelines/multicluster-proxy-aae/pull/38): Fix per request Kubernetes client construction (`ed397a36c6e7`)
 - [38](https://github.com/openshift-pipelines/multicluster-proxy-aae/pull/38): Update permissions for secret (`60279bf58d13`)
 - [71](https://github.com/openshift-pipelines/syncer-service/pull/71): Bump go version to 1.26.10 to fix CVE issue (`de7997d30c54`)
